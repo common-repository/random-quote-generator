@@ -1,0 +1,30 @@
+Don't worry about what anybody else is going to do. The best way to predict the future is to invent it.--Alan Kay
+Premature optimization is the root of all evil (or at least most of it) in programming.-- Donald Knuth
+Lisp has jokingly been called "the most intelligent way to misuse a computer". I think that description is a great compliment because it transmits the full flavor of liberation: it has assisted a number of our most gifted fellow humans in thinking previously impossible thoughts.-- Edsger Dijkstra
+Keep away from people who try to belittle your ambitions. Small people always do that, but the really great make you feel that you, too, can become great.-- Mark Twain
+What Paul does, and does very well, is to take ideas and concepts that are beautiful in the abstract, and brings them down to a real world level. That's a rare talent to find in writing these days.-- Jeff "hemos" Bates
+To follow the path:    look to the master,    follow the master,    walk with the master,    see through the master,    become the master.-- Modern zen Poem
+No problem should ever have to be solved twice.-- Eric S. Raymond
+Attitude is no substitute for competence.-- Eric S. Raymond
+It is said that the real winner is the one who lives in today but able to see tomorrow.-- Juan Meng
+Fools ignore complexity. Pragmatists suffer it. Some can avoid it. Geniuses remove it.-- Alan J. Perlis
+A year spent in artificial intelligence is enough to make one believe in God.-- Alan J. Perlis
+Dealing with failure is easy: Work hard to improve. Success is also easy to handle: You've solved the wrong problem. Work hard to improve. -- Alan J. Perlis
+Within a computer natural language is unnatural.-- Alan J. Perlis
+You think you know when you learn, are more sure when you can write, even more when you can teach, but certain when you can program.-- Alan J. Perlis
+dapting old programs to fit new machines usually means adapting new machines to behave like old ones.-- Alan J. Perlis 
+A little learning is a dangerous thing.-- Alexander Pope
+Computer science education cannot make anybody an expert programmer any more than studying brushes and pigment can make somebody an expert painter.-- Eric Raymond
+Einstein argued that there must be simplified explanations of nature, because God is not capricious or arbitrary.-- Frederick P. Brooks
+Students should be evaluated on how well they can achieve the goals they strived to achieve within a realistic context. Students need to learn to do things, not know things.-- Roger Schank
+We remember what we learn when we care about performing better and when we believe that what we have been asked to do is representative of reality.-- Roger Schank
+There really is no learning without doing.-- Roger Schank
+We really have to get over the idea that some stuff is just worth knowing even if you never do anything with it. Human memories happily erase stuff that has no purpose, so why try to fill up children's heads with such stuff?-- Roger Schank
+The only problems we can really solve in a satisfactory manner are those that finally admit a nicely factored solution.-- E. W. Dijkstra
+The best way to learn to live with our limitations is to know them.--E. W. Dijkstra
+An expert is, according to my working definition "someone who doesn't need to look up answers to easy questions".-- Eric Lippert
+The programmer must seek both perfection of part and adequacy of collection.-- Alan J. Perlis
+Thus, programs must be written for people to read, and only incidentally for machines to execute.-- Alan J. Perlis
+Everything should be made as simple as possible, but no simpler.-- Albert Einstein
+The great dividing line between success and failure can be expressed in five words: "I did not have time."-- WestHost weekly
+When your enemy is making a very serious mistake, don't be impolite and disturb him.-- Napoleon Bonaparte
